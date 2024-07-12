@@ -1,1 +1,2 @@
-# power-bi-project-sales-data-analysis
+Sales Insights -- Power Bi project
+
