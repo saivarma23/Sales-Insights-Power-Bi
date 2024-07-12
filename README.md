@@ -24,14 +24,6 @@ Sales director of the hardware company, decided to build a PowerBI Dashboard for
 
 6.After the initial report reviewed by the stakeholders, made changes to the report based on the review commends.
 
-
-
-
-## Screenshot
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-
 ## Tools
 
 POWER BI 
