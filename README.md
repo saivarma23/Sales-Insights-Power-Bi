@@ -25,5 +25,6 @@ Sales director of the hardware company, decided to build a PowerBI Dashboard for
 
 ## Tools
 
-POWER BI 
-SQL
+POWER BI ,
+SQL,
+Mysql
